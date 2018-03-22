@@ -1,4 +1,4 @@
-## Zhang-Suen-Thinning-Algorithm
+## Zhang Suen Thinning Algorithm
 
 This algorithm is used for thinning binary image. Two steps will be successively applied to the image.  <br/>
 Here arrange the eight neighbors of P1 in a clockwise order: <br/>
